@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+  ## Installation
+
+   1. Clone this project git clone  https://github.com/verasouza/react-crash-course.git
+   2. CD into the directory cd react-crash-course
+   3. Install all packages with yarn or npm install
+   4. Start the server with yarn start
+   5. Set up your own mock api using [these instructions](https://github.com/QuentinWatt/React-for-beginners-tutorial-series/blob/master/ApiSetup.md)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
